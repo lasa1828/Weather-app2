@@ -46,7 +46,7 @@ a {
   color: black;
 }
 .wrap {
-  max-width: 550px;
+  max-width: 500px;
   border: 1px solid;
   border-color: grey;
   border-radius: 15px;
@@ -98,7 +98,6 @@ a {
   text-align: center;
 }
 .weather-forecast-date {
-  margin-top: 40px;
   text-align: center;
   font-size: 16px;
   color: #5d697a;
